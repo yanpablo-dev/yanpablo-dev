@@ -1,6 +1,6 @@
 ## Olá, eu sou o Yan  👋
 
-Estudante de **Engenharia de Software** (4º semestre) no Brasil 🇧🇷.
+Estudante de **Engenharia de Software** (5º semestre) no Brasil 🇧🇷.
 Gosto de transformar problemas reais do dia a dia de empresas em sistemas que funcionam de verdade —
 automação de documentos, integrações e monitoramento de infraestrutura.
 
