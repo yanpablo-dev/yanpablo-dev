@@ -12,7 +12,7 @@ automação de documentos, integrações e monitoramento de infraestrutura.
 
 | Projeto | O que faz | Tecnologias |
 |---|---|---|
-| [**VIGIL**](https://github.com/yanpablo-dev/VIGIL-) | Central de monitoramento de infraestrutura: acompanha CPU, memória, disco, rede e alertas de vários computadores Windows e Linux em um único painel, inclusive em redes diferentes. Agentes com comunicação HTTPS, token individual por dispositivo e serviço do Windows / systemd. | Python, SQLite, JavaScript, PowerShell, Bash |
+| [**VIGIL**](https://github.com/yanpablo-dev/VIGIL) | Central de monitoramento de infraestrutura: acompanha CPU, memória, disco, rede e alertas de vários computadores Windows e Linux em um único painel, inclusive em redes diferentes. Agentes com comunicação HTTPS, token individual por dispositivo e serviço do Windows / systemd. | Python, SQLite, JavaScript, PowerShell, Bash |
 | [**Sistema de Contratos**](https://github.com/yanpablo-dev/sistema-contratos-demo) | Sistema web para escritórios de contabilidade: contratos, propostas e fluxo de cobrança, com geração de Word e PDF, consulta de CNPJ e assinatura eletrônica. | Python, HTML, CSS, JavaScript |
 
 ### 📚 No momento
