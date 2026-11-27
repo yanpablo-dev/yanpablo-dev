@@ -22,6 +22,6 @@ automação de documentos, integrações e monitoramento de infraestrutura.
 - Aprofundando em redes, segurança e arquitetura de sistemas
 - Sempre aprendendo e construindo novos projetos
 
-<!-- Contato: adicione aqui o link do seu LinkedIn, por exemplo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-PERFIL)
--->
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-pablo-machado-costa-34504630a/)
