@@ -6,12 +6,13 @@ automação de documentos, integrações e monitoramento de infraestrutura.
 
 ### 🛠️ Tecnologias
 
-`Python` · `C` · `SQL` · `SQLite` · `HTML` · `CSS` · `JavaScript` · `Node.js` · `PowerShell` · `Git`
+`Python` · `C` · `SQL` · `SQLite` · `HTML` · `CSS` · `JavaScript` · `Node.js` · `PowerShell` · `React` · `PostgreSQL` · `Docker` · `Git`
 
 ### 🚀 Projetos em destaque
 
 | Projeto | O que faz | Tecnologias |
 |---|---|---|
+| [**HelpDesk Enterprise**](https://github.com/yanpablo-dev/helpdesk-enterprise) | Central de serviços de TI no estilo ITSM: chamados com filas e perfis (solicitante, técnico e administrador), SLA com alertas de vencimento e escalonamento automático, base de conhecimento e painel com MTTR, MTTA e cumprimento de SLA. | React, Node.js, PostgreSQL, Docker |
 | [**VIGIL**](https://github.com/yanpablo-dev/VIGIL) | Central de monitoramento de infraestrutura: acompanha CPU, memória, disco, rede e alertas de vários computadores Windows e Linux em um único painel, inclusive em redes diferentes. Agentes com comunicação HTTPS, token individual por dispositivo e serviço do Windows / systemd. | Python, SQLite, JavaScript, PowerShell, Bash |
 | [**Sistema de Contratos**](https://github.com/yanpablo-dev/sistema-contratos-demo) | Sistema web para escritórios de contabilidade: contratos, propostas e fluxo de cobrança, com geração de Word e PDF, consulta de CNPJ e assinatura eletrônica. | Python, HTML, CSS, JavaScript |
 | [**SISCON**](https://github.com/yanpablo-dev/SISCON) | Gestão de condomínios: cobranças em lote, inadimplência com multa e juros, financeiro, orçamento anual, fornecedores, manutenção e reservas, com dashboard analítico e permissões por perfil. Node.js sem dependências externas. | Node.js, JavaScript, HTML, CSS |
